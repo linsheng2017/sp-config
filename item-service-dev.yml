@@ -9,10 +9,10 @@ spring:
 #    port: 5672
 #    username: admin
 #    password: admin
-    
+
 server:
   port: 8001
-  
+
 eureka:
   client:
     service-url:
